@@ -2,3 +2,4 @@ var/
 *.txt
 *.xml
 *.log
+.vscode/settings.json
